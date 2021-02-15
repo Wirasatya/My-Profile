@@ -1,0 +1,3 @@
+Kegiatan tanggal 15 Februari 
+- belajar Git & Github dari zero melalui chanel Youtube Web Programing Unpas.
+- membuat repository MyProfile
