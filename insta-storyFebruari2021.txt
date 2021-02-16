@@ -9,3 +9,6 @@ Kegiatan tanggal 16 Februari
 - belajar membuat web login yang baik dan benar melalui channel youtube "Web Programing Unpas"
 - menyelesaikan bagian 1 dan 2
 - membuat tampilan awal login dan register
+- menyelesaikan pembelajaran bagian 3
+- istirahat
+- lanjut besok atau nanti
