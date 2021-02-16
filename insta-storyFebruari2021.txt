@@ -4,3 +4,8 @@ Kegiatan tanggal 15 Februari
 - menyelesaikan pelajaran dari youtube channel "Web Programming Unpas" tentang Git & Github mulai dari part 1 s/d 8
 - istirahat sambil main game FFBE
 - lanjut besok boskuh
+
+Kegiatan tanggal 16 Februari
+- belajar membuat web login yang baik dan benar melalui channel youtube "Web Programing Unpas"
+- menyelesaikan bagian 1 dan 2
+- membuat tampilan awal login dan register
