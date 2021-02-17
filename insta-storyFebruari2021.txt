@@ -1,14 +1,20 @@
-Kegiatan tanggal 15 Februari 
+Kegiatan tanggal 15 Februari 2021
 - belajar Git & Github dari zero melalui chanel Youtube Web Programing Unpas.
 - membuat repository MyProfile
 - menyelesaikan pelajaran dari youtube channel "Web Programming Unpas" tentang Git & Github mulai dari part 1 s/d 8
 - istirahat sambil main game FFBE
 - lanjut besok boskuh
 
-Kegiatan tanggal 16 Februari
+Kegiatan tanggal 16 Februari 2021
 - belajar membuat web login yang baik dan benar melalui channel youtube "Web Programing Unpas"
 - menyelesaikan bagian 1 dan 2
 - membuat tampilan awal login dan register
 - menyelesaikan pembelajaran bagian 3
 - istirahat
 - lanjut besok atau nanti
+
+kegiatan tanggal 17 februari 2021
+- melakukan pembelajaran pembuatan web login melalui channel youtube "Web Programming Unpas" bagian 4, 5 & 6
+- materi pembelajaran tentang pembuatan proses login user sesuai rule(admin/member) serta membuat page masing-masing dari rule tersebut
+- update commit git pada local device & github repository web-login
+- istirahat
