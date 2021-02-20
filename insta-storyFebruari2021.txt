@@ -18,3 +18,16 @@ kegiatan tanggal 17 februari 2021
 - materi pembelajaran tentang pembuatan proses login user sesuai rule(admin/member) serta membuat page masing-masing dari rule tersebut
 - update commit git pada local device & github repository web-login
 - istirahat
+
+kegiatan tanggal 18 Februai 2021
+- inisialisasi project negarablooms
+- membuat landing page negarablooms
+- membuat login page & register page
+- istirahat
+
+kegiatan tanggal 18 februai 2021
+- membuat database db_negarablooms
+- membuat tabel tb_users
+- membuat halaman utama untuk member setelah login
+- membuat halaman admin untuk mengatur data yang ada nantinya.
+- istirahat
