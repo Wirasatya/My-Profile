@@ -31,3 +31,31 @@ kegiatan tanggal 18 februai 2021
 - membuat halaman utama untuk member setelah login
 - membuat halaman admin untuk mengatur data yang ada nantinya.
 - istirahat
+
+kegiatan tanggal 19 februari 2021
+- membuat fitur menampilkan data menu pada halaman manajemn menu
+- menambahkan fitur tambah data
+- istirahat
+
+kegiatan tanggal 20 februari 2021
+- menambahkan fitur untuk menampilkan data submenu pada halaman manajemen submenu
+- menambahkan fitur tambah data pada halamannnya
+- istirahat
+
+kegiatan tanggal 21 februari 2021 
+- menambahakn fitur acces suatu rule dimana jika belum login tidak bisa mengakses halaman admin/member
+- menambahkan fitur acces sesuai rule, contoh rule admin tidak bisa mengakses langsung ke halaman member begitu pula sebaliknya
+- istirahat
+
+kegiatan tanggal 22 februari 2021
+- menambahkan fitur edit & delete pada halaman manajemen menu, submenu dan acccesmenu
+- istirahat
+
+kegiatan tanggal 23 februari 2021
+- tanggal jadian sama dini tapi lupa ngucapin maafkeun ehehehe.
+- melihat beberapa tutorial dan video untuk edit profile (upload file)
+- istirahat
+
+kegiatan tanggal 24 februari 2021
+- menambahkan fitur edit profile pada admin
+- istirahat
