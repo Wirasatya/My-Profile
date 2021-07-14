@@ -59,3 +59,8 @@ kegiatan tanggal 23 februari 2021
 kegiatan tanggal 24 februari 2021
 - menambahkan fitur edit profile pada admin
 - istirahat
+
+
+yooooooo lama gak update kegiatan ngoding karena sibuk buat wewancara, tapi sayang wewancaranya gak ada yang diterima :(.
+tapi sejak sebulan terakhir lagi fokus belajar lagi, kali ini tentang React JS. saat pertama mengenal react  terlihat susah banget apalagi sebelum adanya react hook. 
+dan baru setelah melihat beberapa tutorial, ternyata belajar react tidak begitu sulit jadi sebulan belakangan ini, lagi boosting tutorial untuk react. liat sana sini tutorial react baik lokal maupun yang channel internasional. semoga target di bulan agustus buat dapat kerja tercapai. yahh sampai akhir juli boosting skill react js aja.
